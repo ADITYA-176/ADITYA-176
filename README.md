@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ADITYA-17
-- 👀 I’m interested in coding and hacking
-- 🌱 I’m currently pursuing my graduation
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ADITYA
+- 👀 I’m interested in competitive programming
+- 🌱 I’m currently pursuing my graduation in Vasavi College Of Engineering
 
 <!---
 ADITYA-176/ADITYA-176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
